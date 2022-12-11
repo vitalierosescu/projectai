@@ -1,3 +1,7 @@
 import './styles/style.css'
+import Cursor from './features/cursor'
 
-console.log('This shit do be working tho')
+// Init cursor
+new Cursor()
+
+console.log('This shit do be working')
